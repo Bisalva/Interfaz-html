@@ -6,7 +6,7 @@ HTML del trabajo de la asignatura de "Interfaz"
 
 **Autor : Benjamin Sanhueza**
 
-> [!TIP]
+> [!note]
 > Este repositorio contendra la primera página web cumpliendo con el 1er objetivo y se le añadira mas adelante el 2do objetivo dando por finalizado el proyecto y entrega.
 
 Obj : 
